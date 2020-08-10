@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "674889765852",
+    "firebase_url": "https://guard-project-b47ec.firebaseio.com",
+    "project_id": "guard-project-b47ec",
+    "storage_bucket": "guard-project-b47ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674889765852:android:82d93cfe5c1766cae77519",
+        "android_client_info": {
+          "package_name": "com.hanadim.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674889765852-7hcb7dvtngr26mj41ds533hfp7ptps79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamBfPDI-9MmUPYTbLQZtjgf0IQVjNyFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674889765852-7hcb7dvtngr26mj41ds533hfp7ptps79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674889765852-idqklq7gsshjjvfolivalhcb9t7o2i9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanadim.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674889765852:android:f26d1bc203641a7de77519",
+        "android_client_info": {
+          "package_name": "com.university.guardproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674889765852-7ick2mq6rmdr7lq37qf30fl4114j8f57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.university.guardproject",
+            "certificate_hash": "945eca6503f4528ecb69a241e7db5bcbd00e8c1d"
+          }
+        },
+        {
+          "client_id": "674889765852-7hcb7dvtngr26mj41ds533hfp7ptps79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamBfPDI-9MmUPYTbLQZtjgf0IQVjNyFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674889765852-7hcb7dvtngr26mj41ds533hfp7ptps79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674889765852-idqklq7gsshjjvfolivalhcb9t7o2i9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanadim.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674889765852:android:5695e39562530e28e77519",
+        "android_client_info": {
+          "package_name": "com.hanadim.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674889765852-7hcb7dvtngr26mj41ds533hfp7ptps79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamBfPDI-9MmUPYTbLQZtjgf0IQVjNyFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674889765852-7hcb7dvtngr26mj41ds533hfp7ptps79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674889765852-idqklq7gsshjjvfolivalhcb9t7o2i9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanadim.guard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

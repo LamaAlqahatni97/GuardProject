@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>674889765852-bv3ei43ghu8helvqaf02v8s0ogrt38qs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.674889765852-bv3ei43ghu8helvqaf02v8s0ogrt38qs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>674889765852-7ick2mq6rmdr7lq37qf30fl4114j8f57.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeboY_E20jM3X-kfd76_8YmP8dFBRLr4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>674889765852</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hanadi.guardbracelet</string>
+	<key>PROJECT_ID</key>
+	<string>guard-project-b47ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>guard-project-b47ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:674889765852:ios:45c0f622b3959c37e77519</string>
+	<key>DATABASE_URL</key>
+	<string>https://guard-project-b47ec.firebaseio.com</string>
+</dict>
+</plist>

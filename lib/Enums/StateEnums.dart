@@ -1,0 +1,1 @@
+enum PrState { Idle, Fetching }

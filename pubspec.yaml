@@ -1,0 +1,65 @@
+name: guardproject
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^0.13.2+1
+  firebase_auth: ^0.15.4
+  provider: ^4.0.4
+  firebase_analytics: ^5.0.11
+  rxdart: ^0.23.1
+  get_it: ^3.1.0
+  flutter_svg: ^0.17.1
+  auto_size_text: ^2.1.0
+  google_maps_flutter: ^0.5.24+1
+  cupertino_icons: ^0.1.2
+  pin_input_text_field: ^3.0.1
+  flare_flutter: ^2.0.1
+  flutter_spinkit: ^4.1.2
+  location: ^2.5.2
+  flutter_polyline_points: ^0.1.0
+  firebase_messaging: ^6.0.12
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.7.3"
+  flutter_test:
+    sdk: flutter
+flutter_icons:
+  image_path_android: "logo/logo.jpeg"
+  image_path_ios: "logo/logo.jpeg"
+  android: true 
+  ios: true 
+  
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/applogo.png
+    - assets/images/track.svg
+    - assets/images/heart.svg
+    - assets/images/account.svg
+    - assets/images/dialogok.svg
+    - assets/images/dialognotok.svg
+    - assets/rive/heartrate.flr
+    - assets/images/position.png
+    - assets/images/destination.png
+
+  fonts:
+    - family: poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-italic.ttf
+          style: italic
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 900
